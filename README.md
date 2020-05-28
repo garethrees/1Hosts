@@ -44,10 +44,8 @@ Just whitelist these domains & Facebook will function normally.<br>
 graph.facebook.com
 connect.facebook.net
 pixel.facebook.com
-mqtt-mini.facebook.com
 staticxx.facebook.com
 b-graph.facebook.com
-lookaside.facebook.com
 b-api.facebook.com
 mqtt-p4.facebook.com
 z-p3-scontent.xx.fbcdn.net
