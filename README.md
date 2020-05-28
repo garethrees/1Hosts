@@ -25,7 +25,6 @@
 [badmojr.github.io/1Hosts/Pro/wildcards.txt](https://badmojr.github.io/1Hosts/Pro/wildcards.txt)<br>
 [badmojr.github.io/1Hosts/complete/wildcards.txt](https://badmojr.github.io/1Hosts/complete/wildcards.txt)<br>
 [badmojr.github.io/1Hosts/mini/wildcards.txt](https://badmojr.github.io/1Hosts/mini/wildcards.txt)<br>
-##
 <br>
 
 **USAGE Guide**<br>
