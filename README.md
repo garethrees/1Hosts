@@ -1,6 +1,5 @@
-# 1Hosts: *filter/bl\*ck lists*
-Protect your 'data' & eyeballs from being auctioned to the highest bidder.<br>
-Grab an updated copy of the file(s) today!<br>
+# ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
+*Grab an updated copy of the file(s) today!*<br>
 
 **AdAway, Pi-hole**:-<br>
 [badmojr.github.io/1Hosts/Pro/hosts.txt](https://badmojr.github.io/1Hosts/Pro/hosts.txt)<br>
