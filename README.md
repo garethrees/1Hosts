@@ -38,7 +38,7 @@ doesn't block enough, upgrade to ***Pro***.<br>
 ------------------------
 worry not!<br>
 Just whitelist these domains & Facebook will function normally.<br>
-*Allowing the domains = Giving FB permission to [ track & serve you ads](https://www.consumerreports.org/privacy/how-facebook-tracks-you-even-when-youre-not-on-facebook/) (around the web & on other apps).*
+*Allowing the domains = Giving FB permission to [ track & serve you ads](https://thenextweb.com/facebook/2018/03/26/facebook-tracking-present-41-popular-android-apps/) (around the web & on other apps).*
 
 ```
 graph.facebook.com
