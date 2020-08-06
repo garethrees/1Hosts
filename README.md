@@ -37,19 +37,5 @@ doesn't block enough, upgrade to ***Pro***.<br>
 **Oh no. My Facebook!?**<br>
 ------------------------
 worry not!<br>
-Just whitelist these domains & Facebook will function normally.<br>
+Just whitelist [these](https://github.com/badmojr/1Hosts/raw/master/antiAllow.list) domains & Facebook will function normally.<br>
 *Allowing the domains = Giving FB permission to [ track & serve you ads](https://thenextweb.com/facebook/2018/03/26/facebook-tracking-present-41-popular-android-apps/) (around the web & on other apps).*
-
-```
-graph.facebook.com
-connect.facebook.net
-pixel.facebook.com
-staticxx.facebook.com
-b-graph.facebook.com
-b-api.facebook.com
-mqtt-p4.facebook.com
-z-p3-scontent.xx.fbcdn.net
-z-p3-api.facebook.com
-b-www.facebook.com 
-z-p3-sonar.fdar1-1.fna.fbcdn.net
-```
