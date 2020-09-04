@@ -1,4 +1,4 @@
-# **Protect your 'data' & eyeballs from being auctioned to the highest bidder.**<br>
+# ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
 **AdAway, Pi-hole**:-<br>
