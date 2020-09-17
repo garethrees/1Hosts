@@ -2,9 +2,9 @@
 # Expires: 4 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 65,199 domains
+#  |Blocked: 65,190 domains
 #  |Size: 1.63 MB
-#  |Updated: Thu, 17 Sep 2020 11:39:24 +0000
+#  |Updated: Thu, 17 Sep 2020 12:39:11 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -3017,7 +3017,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gostats.cn
 0.0.0.0 c3.gostats.cn
 0.0.0.0 gouweida.cn
-0.0.0.0 www.stats.gov.cn
 0.0.0.0 js.govbaidu.cn
 0.0.0.0 gqdvsvt.cn
 0.0.0.0 cms.grandcloud.cn
@@ -5073,7 +5072,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 7157c637bac.com
 0.0.0.0 www.716703.com
 0.0.0.0 www.718unlimited.com
-0.0.0.0 bdcdncmn-gd.inter.71edge.com
 0.0.0.0 729dcbaa57e80c1e.com
 0.0.0.0 js.72bss.com
 0.0.0.0 736bdcef84.com
@@ -9036,7 +9034,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 baichuan-sdk.alicdn.com
 0.0.0.0 dorangesource.alicdn.com
 0.0.0.0 gma.alicdn.com
-0.0.0.0 ilce.alicdn.com
 0.0.0.0 img.im.alicdn.com
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 oalipay-dl-django.alicdn.com
@@ -20266,6 +20263,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 padlet-uploads.storage.googleapis.com
 0.0.0.0 bloggergreetbox.googlecode.com
 0.0.0.0 imgpop.googlecode.com
 0.0.0.0 salefile.googlecode.com
@@ -23117,7 +23115,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.g.iqiyi.com
 0.0.0.0 hotchat-im.iqiyi.com
 0.0.0.0 ifacelog.iqiyi.com
-0.0.0.0 baiducdncmn-gd.inter.iqiyi.com
 0.0.0.0 l-rcd.iqiyi.com
 0.0.0.0 mbdlog.iqiyi.com
 0.0.0.0 msg.iqiyi.com
@@ -23169,7 +23166,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.irs01.com
 0.0.0.0 z.irs01.com
 0.0.0.0 s.irs03.com
-0.0.0.0 s1.irs03.com
 0.0.0.0 irs09.com
 0.0.0.0 irtya.com
 0.0.0.0 t.irtya.com
@@ -27641,7 +27637,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 c.data.mob.com
 0.0.0.0 devs.data.mob.com
 0.0.0.0 m.data.mob.com
-0.0.0.0 api.df.mob.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 f.gm.mob.com
 0.0.0.0 l.gm.mob.com
@@ -30874,6 +30869,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.pepboys.com
 0.0.0.0 www.pepipo.com
 0.0.0.0 container.pepperjam.com
+0.0.0.0 pepsgolfsintake.com
 0.0.0.0 pepsia.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 analytics.percentmobile.com
@@ -32582,7 +32578,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 p.l.qq.com
 0.0.0.0 u.l.qq.com
 0.0.0.0 us.l.qq.com
-0.0.0.0 mazu.m.qq.com
 0.0.0.0 analytics.map.qq.com
 0.0.0.0 i.match.qq.com
 0.0.0.0 pms.mb.qq.com
@@ -32598,7 +32593,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtrace.qq.com
 0.0.0.0 omgmta.qq.com
 0.0.0.0 omgmta1.qq.com
-0.0.0.0 push.pgl.qq.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pinghot.qq.com
 0.0.0.0 pingjs.qq.com
@@ -37588,7 +37582,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tencentmind.com
 0.0.0.0 p.tencentmind.com
 0.0.0.0 ad.tencentmusic.com
-0.0.0.0 adcdn.tencentmusic.com
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 tendatta.com
 0.0.0.0 go.tendatta.com
@@ -41961,14 +41954,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.xuezizhai.com
 0.0.0.0 xulizui6.com
 0.0.0.0 wm.xunlaile.com
-0.0.0.0 api-mcp.adsp.xunlei.com
-0.0.0.0 advertpay-vip-ssl.xunlei.com
 0.0.0.0 analytics-union.xunlei.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
 0.0.0.0 biz.live.xunlei.com
 0.0.0.0 v2.boxcfg.niu.xunlei.com
 0.0.0.0 stat.xunlei.com
-0.0.0.0 watch.advertising.speed.cdn.vip.xunlei.com
 0.0.0.0 scene.vip.xunlei.com
 0.0.0.0 xuossk3tu6hb.com
 0.0.0.0 api.ad.xv555.com
@@ -62409,6 +62399,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 hgbn.space
 0.0.0.0 hithingperm.space
 0.0.0.0 hyconsistenb.space
+0.0.0.0 ippen.space
 0.0.0.0 www.iqiyi.space
 0.0.0.0 laredintonw.space
 0.0.0.0 ldwidentconc.space
