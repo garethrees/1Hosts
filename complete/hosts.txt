@@ -2,9 +2,9 @@
 # Expires: 4 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 63,477 domains
+#  |Blocked: 63,476 domains
 #  |Size: 1.59 MB
-#  |Updated: Sat, 19 Sep 2020 15:26:35 +0000
+#  |Updated: Sat, 19 Sep 2020 15:48:24 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -2895,7 +2895,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 gostats.cn
 0.0.0.0 c3.gostats.cn
-0.0.0.0 www.stats.gov.cn
 0.0.0.0 whhd.gov.cn
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 baidu.greenxf.cn
@@ -3121,6 +3120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 webd.home.news.cn
 0.0.0.0 ninebox.cn
 0.0.0.0 admin.ninebox.cn
+0.0.0.0 nkzker.cn
 0.0.0.0 nouzhu.cn
 0.0.0.0 nqfwx.cn
 0.0.0.0 ntfsformac.cn
@@ -3478,6 +3478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 yun-pdm2000.cn
 0.0.0.0 eo.yun-pdm2000.cn
 0.0.0.0 mo.yun-pdm2000.cn
+0.0.0.0 yun-pdm5000.cn
 0.0.0.0 mps.yuwenba.cn
 0.0.0.0 photo.yxslt.cn
 0.0.0.0 if.yyjsbz.cn
@@ -3929,7 +3930,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 0937js.com
 0.0.0.0 0a0qetx8et.com
 0.0.0.0 0byv9mgbn0.com
-0.0.0.0 0c8edcf8e7526.com
 0.0.0.0 0cf40a2064ce2.com
 0.0.0.0 0d20bff8143.com
 0.0.0.0 0eijh8996i.com
@@ -4738,7 +4738,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.6998cdn.com
 0.0.0.0 69content.com
 0.0.0.0 6b357cda0f.com
-0.0.0.0 6b43edadf3c.com
 0.0.0.0 6b5c418918ebb008cc6.com
 0.0.0.0 6bgaput9ullc.com
 0.0.0.0 6d79qh7j.com
@@ -4788,7 +4787,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.7500.com
 0.0.0.0 www.7540.com
 0.0.0.0 754daf9cd396259.com
-0.0.0.0 757e3befaa.com
 0.0.0.0 7651d44da06c.com
 0.0.0.0 hao.7654.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
@@ -14073,6 +14071,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 widget.convertiser.com
 0.0.0.0 f.convertkit.com
 0.0.0.0 analytics.convertlanguage.com
+0.0.0.0 install.convertmyvid.com
 0.0.0.0 convertpdfsnow.com
 0.0.0.0 download.convertpdfsnow.com
 0.0.0.0 convertro.com
@@ -16379,7 +16378,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eergaroa.com
 0.0.0.0 eeritsog.com
 0.0.0.0 eeyy.com
-0.0.0.0 ef916a8b9110.com
 0.0.0.0 efeedbacktrk.com
 0.0.0.0 effectivemeasure.com
 0.0.0.0 efficaciouscactus.com
@@ -17634,6 +17632,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 clickn.fang.com
 0.0.0.0 countpvn.light.fang.com
 0.0.0.0 mshow.fang.com
+0.0.0.0 news.fangdaijisuanqi.com
 0.0.0.0 ubm.fangtoo.com
 0.0.0.0 fanplayr.com
 0.0.0.0 cdn.fanplayr.com
@@ -29779,6 +29778,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.outwar.com
 0.0.0.0 analytics.ovative.com
 0.0.0.0 ovdnqk2u20ic.com
+0.0.0.0 overbrowser.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkirliaan.com
 0.0.0.0 overratedchalk.com
@@ -31213,7 +31213,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.providesupport.com
 0.0.0.0 provokekitten.com
 0.0.0.0 prowlerz.com
-0.0.0.0 prownl.com
 0.0.0.0 servedby.proxena-adserver.com
 0.0.0.0 proximic.com
 0.0.0.0 t01.proximic.com
@@ -34937,8 +34936,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.socialbakers.com
 0.0.0.0 analytics.socialbakers.com
 0.0.0.0 socialbars-web1.com
-0.0.0.0 socialbars-web2.com
-0.0.0.0 socialbars-web4.com
 0.0.0.0 socialbars-web5.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics2.socialblade.com
@@ -41526,7 +41523,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 impservice.youdao.com
 0.0.0.0 log-yex.youdao.com
-0.0.0.0 note.youdao.com
 0.0.0.0 rlogs.youdao.com
 0.0.0.0 shared.youdao.com
 0.0.0.0 ydpushserver.youdao.com
@@ -43809,6 +43805,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 searchx.eu
 0.0.0.0 lp.sexyadults.eu
 0.0.0.0 simp3.eu
+0.0.0.0 site24x7rum.eu
 0.0.0.0 t.smile.eu
 0.0.0.0 style-eyes.eu
 0.0.0.0 tagvideo.eu
@@ -53576,6 +53573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myadx.net
 0.0.0.0 r.myadx.net
 0.0.0.0 adres.myaora.net
+0.0.0.0 mybestclick.net
 0.0.0.0 etetdc4ed-exhausted-lizard-tc.mybluemix.net
 0.0.0.0 tu4dff-reflective-shark.eu-gb.mybluemix.net
 0.0.0.0 ty65xcc-smart-manatee.mybluemix.net
@@ -57557,6 +57555,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 s.remonti.org
 0.0.0.0 p.d.rpts.org
 0.0.0.0 www.rutrk.org
+0.0.0.0 s3blog.org
 0.0.0.0 discount.s3blog.org
 0.0.0.0 s99i.org
 0.0.0.0 salesviewer.org
