@@ -2,9 +2,9 @@
 # Expires: 4 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 58,261 domains
+#  |Blocked: 58,276 domains
 #  |Size: 1.46 MB
-#  |Updated: Sat, 19 Sep 2020 18:51:07 +0000
+#  |Updated: Sat, 19 Sep 2020 21:34:23 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -42185,7 +42185,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vault-poc.districtm.io
 0.0.0.0 analytics.diyriver.io
 0.0.0.0 dnsdelegation.io
-0.0.0.0 embed.doorbell.io
 0.0.0.0 dsp.io
 0.0.0.0 early-birds.io
 0.0.0.0 pipe-collect.ebu.io
@@ -42784,7 +42783,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ynxs.io
 0.0.0.0 link.ynxs.io
 0.0.0.0 events.yourcx.io
-0.0.0.0 e2e-static.zdcommerce.io
 0.0.0.0 zprk.io
 0.0.0.0 pixel.zprk.io
 0.0.0.0 pixel.zumby.io
@@ -46694,9 +46692,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 alitalia.demdex.net
 0.0.0.0 altria.demdex.net
 0.0.0.0 amc.demdex.net
+0.0.0.0 americanairlines.demdex.net
 0.0.0.0 amexle.demdex.net
 0.0.0.0 ana.demdex.net
 0.0.0.0 fast.ancestry-mcsp.demdex.net
+0.0.0.0 anz.demdex.net
 0.0.0.0 aoa.demdex.net
 0.0.0.0 fast.astro.demdex.net
 0.0.0.0 att.demdex.net
@@ -46707,6 +46707,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 avalara.demdex.net
 0.0.0.0 aviancaadobe.demdex.net
 0.0.0.0 aviva.demdex.net
+0.0.0.0 b2w.demdex.net
 0.0.0.0 bellca.demdex.net
 0.0.0.0 fast.bellca.demdex.net
 0.0.0.0 bestbuy.demdex.net
@@ -46722,6 +46723,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bskyb.demdex.net
 0.0.0.0 fast.bskyb.demdex.net
 0.0.0.0 bupa.demdex.net
+0.0.0.0 cablevision.demdex.net
 0.0.0.0 cam.demdex.net
 0.0.0.0 canada.demdex.net
 0.0.0.0 fast.canada.demdex.net
@@ -46742,6 +46744,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 chelseafc.demdex.net
 0.0.0.0 choice.demdex.net
 0.0.0.0 cigna.demdex.net
+0.0.0.0 cimpressnv.demdex.net
 0.0.0.0 cloudera.demdex.net
 0.0.0.0 clydesdalebankplc.demdex.net
 0.0.0.0 comcastathena.demdex.net
@@ -46798,7 +46801,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 fast.homedepot.demdex.net
 0.0.0.0 homedepotca.demdex.net
 0.0.0.0 honda.demdex.net
+0.0.0.0 hrblock.demdex.net
 0.0.0.0 hsbcbankcmb.demdex.net
+0.0.0.0 hudsonbaycompany.demdex.net
 0.0.0.0 hvmllc.demdex.net
 0.0.0.0 infinitiheliosemea.demdex.net
 0.0.0.0 informatica.demdex.net
@@ -46836,6 +46841,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 nbcent.demdex.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 fast.nbcu.demdex.net
+0.0.0.0 nbcuni.demdex.net
 0.0.0.0 fast.nbcuni.demdex.net
 0.0.0.0 nd.demdex.net
 0.0.0.0 networkappliance.demdex.net
@@ -46850,7 +46856,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 nyulmc.demdex.net
 0.0.0.0 ocbc.demdex.net
 0.0.0.0 orange.demdex.net
+0.0.0.0 pandoraas.demdex.net
 0.0.0.0 pandoramedia.demdex.net
+0.0.0.0 pepsico.demdex.net
 0.0.0.0 fast.philipslighting.demdex.net
 0.0.0.0 postmedia.demdex.net
 0.0.0.0 prvd.demdex.net
@@ -46902,6 +46910,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 telefonicauklimited.demdex.net
 0.0.0.0 televisa.demdex.net
 0.0.0.0 telstra.demdex.net
+0.0.0.0 telus.demdex.net
 0.0.0.0 thecollegeboard.demdex.net
 0.0.0.0 theteachingcompanysalesllc.demdex.net
 0.0.0.0 thetirerackinc.demdex.net
@@ -46929,10 +46938,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 vice.demdex.net
 0.0.0.0 virginatlantic.demdex.net
 0.0.0.0 vitacostinc.demdex.net
+0.0.0.0 vivaki.demdex.net
 0.0.0.0 vmwareinc.demdex.net
 0.0.0.0 vrtbe.demdex.net
 0.0.0.0 webmd.demdex.net
 0.0.0.0 wellsfargobankna.demdex.net
+0.0.0.0 williamhill.demdex.net
 0.0.0.0 fast.williamhill.demdex.net
 0.0.0.0 wogaa.demdex.net
 0.0.0.0 fast.wolterskluwermedical.demdex.net
@@ -47124,6 +47135,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 metrics.cvshealth.com.edgekey.net
 0.0.0.0 metrics.hackerrank.com.edgekey.net
 0.0.0.0 analytics.libertymutual.com.edgekey.net
+0.0.0.0 wildcard.measuread.com.edgekey.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 iu.snssdk.com.edgekey.net
@@ -47704,6 +47716,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wzhuanyun.evyy.net
 0.0.0.0 yodlecom.evyy.net
 0.0.0.0 excluzive.net
+0.0.0.0 cl.s4.exct.net
 0.0.0.0 affiliate.exploit.net
 0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 eyeota.net
@@ -49530,6 +49543,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dsgretaillimited.tt.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 fcaemea.tt.omtrdc.net
+0.0.0.0 fcanafta.tt.omtrdc.net
 0.0.0.0 fedex.tt.omtrdc.net
 0.0.0.0 fnp.tt.omtrdc.net
 0.0.0.0 foxnews.tt.omtrdc.net
@@ -51428,6 +51442,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 worldfilia.net
 0.0.0.0 tracking.worldmedia.net
 0.0.0.0 s.worldofmacros.net
+0.0.0.0 recommendation-hybrid.wpdigital.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 tracker.wpserveur.net
