@@ -54,12 +54,14 @@ https://github.com/Yuki2718/adblock/raw/master/adguard/tracking-plus.txt
 https://dl.comss.org/download/Comss-filters.txt
 https://github.com/wrysunny/ad_list/raw/master/adlist.txt
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
 https://github.com/sa-ki13/jmsf/raw/master/japanese_mobile_site_dns_filter.txt
 https://github.com/easylist-thailand/easylist-thailand/raw/master/subscription/easylist-thailand.txt
 https://raw.githubusercontent.com/clion007/dnsmasq/master/adblacklist
 https://github.com/Kees1958/W3C_annual_most_used_survey_blocklist/raw/master/EU_US_most_common_trackers
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
+https://github.com/Yuki2718/adblock/raw/master/japanese/jp-filters.txt
 http://abpvn.com/android/abpvn.txt
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 https://raw.githubusercontent.com/yhonay/antipopads/master/hosts
@@ -141,7 +143,12 @@ https://github.com/ftpmorph/ftpihole/raw/master/blocklists/smartphone-ads-tracki
 https://github.com/monojp/hosts_merge/raw/master/hosts_blacklist.txt
 https://github.com/Stright/Links-you-shouldnt-visit/raw/master/domain
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://hosts.nfz.moe/basic/hosts
+https://github.com/jasirfayas/jBlocklist/raw/master/domains.lst
+https://github.com/TonyRL/blocklist/raw/master/hosts
+https://raw.githubusercontent.com/kowith337/PersonalFilterListCollection/master/hosts/hosts_google_adservice_id.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
+https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts
 http://adfree-hosts.odiousapps.com/adfree.php
 https://www.gameindustry.eu/files/hosts.txt
 https://dbl.oisd.nl/
@@ -177,6 +184,8 @@ https://github.com/ShadowWhisperer/BlockLists/raw/master/Lists/Malware
 https://github.com/Hariharann8175/Indicators-of-Compromise-IOC-/raw/master/Ransomware%20URL's
 https://github.com/Neo23x0/signature-base/raw/master/iocs/c2-iocs.txt
 https://malc0de.com/bl/ZONES
+https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-malware.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Suspicious
 http://www.shallalist.de/Downloads/shallalist.tar.gz
 https://dsi.ut-capitole.fr/blacklists/download/ads.tar.gz
 http://www.hostsfile.org/Downloads/BadHosts.unx.zip
