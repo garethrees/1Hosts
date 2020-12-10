@@ -2,9 +2,9 @@
 # Expires: 4 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 63,177 domains
+#  |Blocked: 63,172 domains
 #  |Size: 1.60 MB
-#  |Updated: Thu, 10 Dec 2020 10:58:35 +0000
+#  |Updated: Thu, 10 Dec 2020 12:28:27 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -28017,6 +28017,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.naver.com
 0.0.0.0 l.m.naver.com
 0.0.0.0 pb.m.naver.com
+0.0.0.0 s.news.naver.com
 0.0.0.0 adlog.shopping.naver.com
 0.0.0.0 tivan.naver.com
 0.0.0.0 logapi.tv.naver.com
@@ -35617,7 +35618,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 streamsearchclub.com
 0.0.0.0 streamsend.com
 0.0.0.0 server1.streamsend.com
-0.0.0.0 streamspread.com
 0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 streamyourvid.com
 0.0.0.0 stream-all.com
@@ -46459,7 +46459,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.quantumdex.io
 0.0.0.0 useast.quantumdex.io
 0.0.0.0 www.quantumdex.io
-0.0.0.0 quintesse.io
 0.0.0.0 api.radar.io
 0.0.0.0 rdtk.io
 0.0.0.0 cdle7.rdtk.io
@@ -54898,7 +54897,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 shusacem.net
 0.0.0.0 shuteehe.net
 0.0.0.0 sicaurtu.net
-0.0.0.0 service.signalr.net
 0.0.0.0 aigent2.silveregg.net
 0.0.0.0 ad.simgames.net
 0.0.0.0 aff.simibo.net
@@ -56515,9 +56513,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amp-analytics.newshub.co.nz
 0.0.0.0 ads.nzcity.co.nz
 0.0.0.0 geoshopping.nzherald.co.nz
-0.0.0.0 nzmelistings.co.nz
 0.0.0.0 nzme-ads.co.nz
-0.0.0.0 oneroof.co.nz
 0.0.0.0 cmp.pcworld.co.nz
 0.0.0.0 adlink.shopsafe.co.nz
 0.0.0.0 adclick.stuff.co.nz
@@ -60535,7 +60531,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 preamp-clients.header.tech
 0.0.0.0 htintpa.tech
 0.0.0.0 infocode.tech
-0.0.0.0 ingage.tech
 0.0.0.0 ads.instabid.tech
 0.0.0.0 kudzuphloemgunk.tech
 0.0.0.0 analytics.leya.tech
