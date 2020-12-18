@@ -2,9 +2,9 @@
 # Expires: 4 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 47,624 domains
-#  |Size: 919.31 KB
-#  |Updated: Fri, 18 Dec 2020 08:03:19 +0000
+#  |Blocked: 47,629 domains
+#  |Size: 919.51 KB
+#  |Updated: Fri, 18 Dec 2020 12:46:02 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -3275,7 +3275,6 @@
 *.posst.co
 *.ppcnt.co
 *.pixel.prfct.co
-*.pixel-geo.prfct.co
 *.ads.privatemedia.co
 *.www.pubx.co
 *.pushalert.co
@@ -5604,7 +5603,6 @@
 *.adtech.advertising.com
 *.banner.advertising.com
 *.cmp.advertising.com
-*.pixel.advertising.com
 *.smrtpxl.advertising.com
 *.sp.advertising.com
 *.ssp.advertising.com
@@ -8787,7 +8785,6 @@
 *.cannontwin.com
 *.canopylabs.com
 *.ads.cantonrep.com
-*.track.canva.com
 *.tf.caohua.com
 *.tfssl.caohua.com
 *.caomindianying.com
@@ -16766,7 +16763,17 @@
 *.analytics.kaltura.com
 *.stats.kaltura.com
 *.data.kamcord.com
-*.kameleoon.com
+*.api-product.kameleoon.com
+*.api-visit.kameleoon.com
+*.araman.kameleoon.com
+*.customers.kameleoon.com
+*.eldamar01-loadbalanced.kameleoon.com
+*.eldamar02-loadbalanced.kameleoon.com
+*.eldamar03-loadbalanced.kameleoon.com
+*.eldamar04-loadbalanced.kameleoon.com
+*.static.kameleoon.com
+*.static-bp.kameleoon.com
+*.storage.kameleoon.com
 *.api-usent.kampyle.com
 *.assets.kampyle.com
 *.cdn-prod.kampyle.com
@@ -19837,7 +19844,6 @@
 *.db02cyz1aujy9.moatads.com
 *.dbg52463.moatads.com
 *.dsa.moatads.com
-*.geo.moatads.com
 *.js.moatads.com
 *.ecs.mb.moatads.com
 *.obo.moatads.com
@@ -22650,7 +22656,6 @@
 *.pb-play.playbuzz.com
 *.pb-story.playbuzz.com
 *.pixel.playbuzz.com
-*.prd-collector-anon.playbuzz.com
 *.res-format-story.playbuzz.com
 *.res-homepage.playbuzz.com
 *.site-elb.playbuzz.com
@@ -27382,7 +27387,6 @@
 *.zedo.technoratimedia.com
 *.technotology.com
 *.orionis.techradar.com
-*.go.techtarget.com
 *.searchsqlserver.techtarget.com
 *.trk.techtarget.com
 *.stat.techtimes.com
@@ -30653,7 +30657,6 @@
 *.xuenengyoujiaoyu.com
 *.a.xuezizhai.com
 *.xulizui6.com
-*.analytics-union.xunlei.com
 *.api-shoulei-ssl.xunlei.com
 *.live.xunlei.com
 *.cop.my.xunlei.com
@@ -35739,6 +35742,7 @@
 *.static.tpmn.co.kr
 *.m.tstore.co.kr
 *.adx.turl.co.kr
+*.analytics2.tvreport.co.kr
 *.ad.t-ad.co.kr
 *.unionpress.co.kr
 *.ads.vcnc.co.kr
@@ -42264,7 +42268,8 @@
 *.jp1-bid-ga.adsrvr.org
 *.jp-optout.adsrvr.org
 *.js.adsrvr.org
-*.match.adsrvr.org
+*.eua.match.adsrvr.org
+*.use.match.adsrvr.org
 *.match-aga.adsrvr.org
 *.moat.adsrvr.org
 *.nai.adsrvr.org
