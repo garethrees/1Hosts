@@ -27,18 +27,15 @@
 [badmojr.github.io/1Hosts/mini/dnsmasq.conf](https://badmojr.github.io/1Hosts/mini/dnsmasq.conf)<br>
 <br>
 
-**USAGE Guide**<br>
+**Quickstart Guide**<br>
 ----------------
-Start with the ***Lite***/main pack(s). If it:-<br>
-blocks too much, downgrade to ***mini***.<br>
-doesn't block enough, upgrade to ***Pro***.<br>
-<br>
+Start with a ***Lite*** pack. If it:-<br>
+- blocks too much, downgrade to ***mini***.<br>
+- doesn't block enough, upgrade to ***Pro***.<br>
 
-**Oh no. My Facebook!?**<br>
-------------------------
-worry not!<br>
-Just whitelist [these](https://github.com/badmojr/1Hosts/raw/master/antiAllow.lst) domains & Facebook will function normally.<br>
-*Allowing the domains = Giving FB permission to [ track & serve you ads](https://thenextweb.com/facebook/2018/03/26/facebook-tracking-present-41-popular-android-apps/) (around the web & on other apps).*
+Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tree/master/Pro/xtra) + **Pro** together!<br>
+
+<br>
 
 #
 \- _**Visit our [XDA](https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360/) thread for download mirrors.**_ \-
