@@ -34,8 +34,6 @@ Start with a ***Lite*** pack. If it:-<br>
 - doesn't block enough, upgrade to ***Pro***.<br>
 
 Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tree/master/Pro/xtra) + **Pro** together!<br>
-
 <br>
 
-#
 \- _**Visit our [XDA](https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360/) thread for download mirrors.**_ \-
