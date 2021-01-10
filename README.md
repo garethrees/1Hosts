@@ -37,3 +37,5 @@ Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tre
 <br>
 
 \- _**Visit our [XDA](https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360/) thread for download mirrors.**_ \-
+
+[![HitCount](http://hits.dwyl.com/badmojr/1Hosts.svg)](http://hits.dwyl.com/badmojr/1Hosts)
