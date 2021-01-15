@@ -2,9 +2,9 @@
 # Expires: 1 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 61,887 domains
+#  |Blocked: 61,902 domains
 #  |Size: 1.57 MB
-#  |Updated: Thu, 14 Jan 2021 18:27:16 +0000
+#  |Updated: Fri, 15 Jan 2021 01:16:18 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -137,6 +137,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cashstaging.app
 0.0.0.0 clickguardian.app
 0.0.0.0 codefund.app
+0.0.0.0 metrics.happycolor.app
 0.0.0.0 disco-flipclock.netlify.app
 0.0.0.0 onepush.app
 0.0.0.0 cdn.onepush.app
@@ -146,6 +147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gpay-wfh-offer.web.app
 0.0.0.0 skype-online0345.web.app
 0.0.0.0 ad.x-flow.app
+0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 bannerlandia.com.ar
 0.0.0.0 smetrics.bbva.com.ar
 0.0.0.0 adnetwork.fullservices.com.ar
@@ -822,7 +824,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 store.trafficfactory.biz
 0.0.0.0 trafic-booster.biz
 0.0.0.0 track.ultragaming.biz
-0.0.0.0 vcdn.biz
 0.0.0.0 vinuser5.biz
 0.0.0.0 vn88.biz
 0.0.0.0 vpnfortorrents.biz
@@ -2503,6 +2504,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 1.01fy.cn
 0.0.0.0 g1.08160.cn
 0.0.0.0 ssp.08160.cn
+0.0.0.0 0b2qv7.cn
 0.0.0.0 go.10086.cn
 0.0.0.0 oss-asq-static.11222.cn
 0.0.0.0 greenxfs.down.123ch.cn
@@ -3800,6 +3802,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 url-redirect.co
 0.0.0.0 verblife-5.co
 0.0.0.0 p.vibrant.co
+0.0.0.0 log.videocampaign.co
 0.0.0.0 wdfl.co
 0.0.0.0 58add99b.webengage.co
 0.0.0.0 z.webengage.co
@@ -5475,6 +5478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 addtoany.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 stats.addtoany.com
+0.0.0.0 addvantagetechnology.com
 0.0.0.0 www.addwish.com
 0.0.0.0 addynamo.com
 0.0.0.0 banners.delivery.addynamo.com
@@ -22735,6 +22739,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kiwys.com
 0.0.0.0 kixer.com
 0.0.0.0 www.kixer.com
+0.0.0.0 kiynew.com
 0.0.0.0 kizash.com
 0.0.0.0 www.kizash.com
 0.0.0.0 webftp.ki-oon.com
@@ -27118,6 +27123,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mxshuh.com
 0.0.0.0 mxtads.com
 0.0.0.0 cdn.mxtcdn.com
+0.0.0.0 mxuiso.com
 0.0.0.0 1l-hit.my.com
 0.0.0.0 r.my.com
 0.0.0.0 target.my.com
@@ -29229,6 +29235,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stats.pandora.com
 0.0.0.0 tracker.pandora.com
 0.0.0.0 statystyki.panelek.com
+0.0.0.0 livetracker.rfe.pangea-cms.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
 0.0.0.0 panicshaggy.com
 0.0.0.0 panoramicbutter.com
@@ -31694,6 +31701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 roll.redirectowl.com
 0.0.0.0 redirectpopads.com
 0.0.0.0 secure.redirectportal.com
+0.0.0.0 redirect-ads.com
 0.0.0.0 redirsense.com
 0.0.0.0 redistats.com
 0.0.0.0 redlele.com
@@ -34998,6 +35006,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 stoagergu.com
 0.0.0.0 stoaksie.com
 0.0.0.0 stoassod.com
+0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 same.stockstar.com
 0.0.0.0 stogerde.com
 0.0.0.0 stonecalcom.com
@@ -36742,6 +36751,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.trackentertainment.com
 0.0.0.0 tracker.com
 0.0.0.0 tracker.trackerbox.com
+0.0.0.0 trackerhqu.com
 0.0.0.0 trackfeed.com
 0.0.0.0 trackimpression.com
 0.0.0.0 run.trackimpression.com
@@ -39237,6 +39247,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtendant.weatherforyou.com
 0.0.0.0 adds.weatherology.com
 0.0.0.0 files.weatherstudio.com
+0.0.0.0 weaveradrenaline.com
 0.0.0.0 pm.web.com
 0.0.0.0 web1000.com
 0.0.0.0 web100kz.com
@@ -55726,6 +55737,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 2468.go2cloud.org
 0.0.0.0 adperf.go2cloud.org
 0.0.0.0 adrspain.go2cloud.org
+0.0.0.0 alchemist.go2cloud.org
 0.0.0.0 forestvieweu.go2cloud.org
 0.0.0.0 grammarly.go2cloud.org
 0.0.0.0 personalcapital.go2cloud.org
@@ -57451,6 +57463,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 deeppquiz.ru
 0.0.0.0 desert.ru
 0.0.0.0 rb1.design.ru
+0.0.0.0 telegraf.detmir-stats.ru
 0.0.0.0 devtizer.ru
 0.0.0.0 dewife.ru
 0.0.0.0 ads.dfiles.ru
@@ -57858,6 +57871,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.morgdm.ru
 0.0.0.0 stats.mos.ru
 0.0.0.0 motoadvert.ru
+0.0.0.0 analytics.move.ru
 0.0.0.0 moviead55.ru
 0.0.0.0 cdn.movieads.ru
 0.0.0.0 mpsuadv.ru
@@ -58276,6 +58290,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 torgnn.ru
 0.0.0.0 torrent-trackers.ru
 0.0.0.0 towithdureb.ru
+0.0.0.0 track.tproger.ru
 0.0.0.0 track-mixer.ru
 0.0.0.0 tradeins.ru
 0.0.0.0 traf2me.ru
