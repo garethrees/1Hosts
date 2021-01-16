@@ -2,9 +2,9 @@
 # Expires: 1 days
 #  .............
 #  |home: badmojr.github.io/1Hosts
-#  |Blocked: 61,925 domains
+#  |Blocked: 61,910 domains
 #  |Size: 1.57 MB
-#  |Updated: Fri, 15 Jan 2021 16:56:53 +0000
+#  |Updated: Sat, 16 Jan 2021 01:18:09 +0000
 #  |
 #  |Licence: Dandelicence,
 #  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -2693,7 +2693,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.codenow.cn
 0.0.0.0 images2.4hw.com.cn
 0.0.0.0 jb.4hw.com.cn
-0.0.0.0 js.4hw.com.cn
 0.0.0.0 ssp.4hw.com.cn
 0.0.0.0 7791.com.cn
 0.0.0.0 11.96131.com.cn
@@ -3241,7 +3240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 log.m.sm.cn
 0.0.0.0 sugs.m.sm.cn
 0.0.0.0 log.snmi.cn
-0.0.0.0 sss.soarfi.cn
 0.0.0.0 1.soufy.cn
 0.0.0.0 c.sssgbw.cn
 0.0.0.0 v.sssgbw.cn
@@ -3572,6 +3570,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 influid.co
 0.0.0.0 log.intellimize.co
 0.0.0.0 intravert.co
+0.0.0.0 invl.co
+0.0.0.0 xhr.invl.co
 0.0.0.0 ipdata.co
 0.0.0.0 jads.co
 0.0.0.0 ck.jads.co
@@ -6569,7 +6569,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dolphin-center.adsame.com
 0.0.0.0 doniv.adsame.com
 0.0.0.0 dsp.adsame.com
-0.0.0.0 dspimg.adsame.com
 0.0.0.0 dspimgssl.adsame.com
 0.0.0.0 dspui.adsame.com
 0.0.0.0 dspwin.adsame.com
@@ -6634,7 +6633,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vu.adschoom.com
 0.0.0.0 www.adschoom.com
 0.0.0.0 www.adsclk.com
-0.0.0.0 adscontex.com
 0.0.0.0 adscoo.com
 0.0.0.0 adscoops.com
 0.0.0.0 www.adscoops.com
@@ -7655,7 +7653,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dkelseymedia.advertserve.com
 0.0.0.0 dotcomconsultancy.advertserve.com
 0.0.0.0 echonet.advertserve.com
-0.0.0.0 estatemedia.advertserve.com
 0.0.0.0 exchange.advertserve.com
 0.0.0.0 eyemagazine.advertserve.com
 0.0.0.0 fhg.advertserve.com
@@ -9531,7 +9528,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 archbushes.com
 0.0.0.0 openx.archerytalk.com
 0.0.0.0 archhandlingperpetrate.com
-0.0.0.0 archiustube.com
 0.0.0.0 beacon.archonia.com
 0.0.0.0 archswimming.com
 0.0.0.0 targeting.nzme.arcpublishing.com
@@ -10036,7 +10032,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 axsrv.com
 0.0.0.0 axwxrnk5ydzy.com
 0.0.0.0 ay9244.com
-0.0.0.0 ayboll.com
 0.0.0.0 ayeboagnu.com
 0.0.0.0 sos.azadicdn.com
 0.0.0.0 azaipsee.com
@@ -10553,17 +10548,19 @@ ff02::3 ip6-allhosts
 0.0.0.0 b.bedop.com
 0.0.0.0 bedrapiona.com
 0.0.0.0 bee7.com
-0.0.0.0 cdn.bee7.com
 0.0.0.0 beeaimaid.com
 0.0.0.0 www.adimages.beeb.com
 0.0.0.0 beefraidmob.com
+0.0.0.0 beeketing.com
 0.0.0.0 cdn.beeketing.com
 0.0.0.0 file-cdn.beeketing.com
+0.0.0.0 gapi.beeketing.com
 0.0.0.0 m.beeketing.com
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdk-cdn.beeketing.com
 0.0.0.0 ss.beeketing.com
 0.0.0.0 stag.beeketing.com
+0.0.0.0 track.beeketing.com
 0.0.0.0 beelert.com
 0.0.0.0 beemray.com
 0.0.0.0 adobeaam.beemray.com
@@ -17861,7 +17858,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.forshrd.com
 0.0.0.0 forter.com
 0.0.0.0 smetrics.forthedriven.com
-0.0.0.0 update.fortinetantivirus.com
 0.0.0.0 fortpush.com
 0.0.0.0 fortt-rade.com
 0.0.0.0 a.fortumo.com
@@ -19152,7 +19148,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcc.godaddy.com
 0.0.0.0 api.parking.godaddy.com
 0.0.0.0 events.parking.godaddy.com
-0.0.0.0 dhcp.godaddydns.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 goddessrig.com
 0.0.0.0 godforsakenpleat.com
@@ -19707,6 +19702,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.hapyak.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 harassinglimb.com
+0.0.0.0 haravan.com
+0.0.0.0 buyxgety.haravan.com
+0.0.0.0 buyxgety-omni.haravan.com
+0.0.0.0 combo.haravan.com
+0.0.0.0 combo-omni.haravan.com
+0.0.0.0 onapp.haravan.com
 0.0.0.0 harborcub.com
 0.0.0.0 smetrics.harborfreight.com
 0.0.0.0 hlsdk.hardlightdev.com
@@ -23265,7 +23266,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lc442.com
 0.0.0.0 api.lce9v.com
 0.0.0.0 lcentntel.com
-0.0.0.0 lcktg00.com
 0.0.0.0 lcmarrero.com
 0.0.0.0 protection.lcpolice.com
 0.0.0.0 lcwfab1.com
@@ -23983,6 +23983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 assets.locuslabs.com
 0.0.0.0 loerv.com
 0.0.0.0 smetrics.loft.com
+0.0.0.0 loftsbaacad.com
 0.0.0.0 loftygreater.com
 0.0.0.0 logaholic.com
 0.0.0.0 logbor.com
@@ -24138,7 +24139,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 ssl.luckyorange.com
 0.0.0.0 luckypushh.com
-0.0.0.0 luckysearch123.com
 0.0.0.0 lukpush.com
 0.0.0.0 smetrics.lululemon.com
 0.0.0.0 lulzimg.com
@@ -29758,6 +29758,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads2.pittsburghlive.com
 0.0.0.0 insightxe.pittsburghlive.com
 0.0.0.0 insightxe-ssl.pittsburghlive.com
+0.0.0.0 pityneedsdads.com
 0.0.0.0 pivotnetworks.com
 0.0.0.0 www.pivotnetworks.com
 0.0.0.0 pivotrunner.com
@@ -30227,18 +30228,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 powerfulrumbleshrewd.com
 0.0.0.0 powerjobs.com
 0.0.0.0 powerlinks.com
-0.0.0.0 build.powerlinks.com
-0.0.0.0 dsp-monitoring.powerlinks.com
 0.0.0.0 exchange-eu-west.powerlinks.com
 0.0.0.0 exchange-us-east.powerlinks.com
-0.0.0.0 nexus.powerlinks.com
 0.0.0.0 px.powerlinks.com
-0.0.0.0 px-proxy.powerlinks.com
 0.0.0.0 register.powerlinks.com
-0.0.0.0 rtb-lb-eu.powerlinks.com
-0.0.0.0 rtb-lb-us.powerlinks.com
 0.0.0.0 serve.powerlinks.com
-0.0.0.0 test-dsp-api.powerlinks.com
 0.0.0.0 www.powerlinks.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 p0-ia.powr-media.com
@@ -31101,7 +31095,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tgw-sasdk.3g.qq.com
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 3gimg.qq.com
-0.0.0.0 ad.qq.com
 0.0.0.0 analy.qq.com
 0.0.0.0 a.app.qq.com
 0.0.0.0 prom.b.qq.com
@@ -33225,7 +33218,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 setupad.com
 0.0.0.0 sevenrumblepunishment.com
 0.0.0.0 analytics.sevenval-fit.com
-0.0.0.0 track.sexchangegirl.com
 0.0.0.0 sexclic.com
 0.0.0.0 sexdatecash.com
 0.0.0.0 tools.sexedenfer.com
@@ -35865,7 +35857,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tcrybv.com
 0.0.0.0 tct-teye.com
 0.0.0.0 www.tct-teye.com
-0.0.0.0 a.tcyclops.com
 0.0.0.0 tczzzlwpss.com
 0.0.0.0 tc-clicks.com
 0.0.0.0 traffic.tc-clicks.com
@@ -38192,9 +38183,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 hit.api.useinsider.com
 0.0.0.0 location.api.useinsider.com
 0.0.0.0 log.api.useinsider.com
+0.0.0.0 mediamartvn.api.useinsider.com
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 static.api.useinsider.com
 0.0.0.0 thegioididongvn.api.useinsider.com
+0.0.0.0 viettelstorevn.api.useinsider.com
 0.0.0.0 weather.api.useinsider.com
 0.0.0.0 image.useinsider.com
 0.0.0.0 mobile.useinsider.com
@@ -39672,9 +39665,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wimsocou.com
 0.0.0.0 winadx.com
 0.0.0.0 winaffiliates.com
-0.0.0.0 blb.winasdaq.com
-0.0.0.0 nav.winasdaq.com
-0.0.0.0 un.winasdaq.com
 0.0.0.0 www.windaily.com
 0.0.0.0 windcdna.com
 0.0.0.0 windieemo.com
@@ -40542,7 +40532,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ad.yemeksepeti.com
 0.0.0.0 yemobiads.com
 0.0.0.0 www.yemobiads.com
-0.0.0.0 yemonisoni.com
 0.0.0.0 yengo.com
 0.0.0.0 st.yengo.com
 0.0.0.0 www.yengo.com
@@ -42511,6 +42500,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 trustmeiamapro.de
 0.0.0.0 turboads.de
 0.0.0.0 level.turboads.de
+0.0.0.0 cmp.tvspielfilm.de
 0.0.0.0 im.banner.t-online.de
 0.0.0.0 m.banner.t-online.de
 0.0.0.0 dlvr.t-online.de
@@ -43386,7 +43376,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww400.smartadserver.fr
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 dev.splio.fr
+0.0.0.0 starseed.fr
 0.0.0.0 cdn.starseed.fr
+0.0.0.0 log.starseed.fr
 0.0.0.0 starsx.fr
 0.0.0.0 stats.fr
 0.0.0.0 www.stats.fr
@@ -43499,7 +43491,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 howeverhou.fun
 0.0.0.0 ialgregarderol.fun
 0.0.0.0 iccompanzens.fun
-0.0.0.0 intab.fun
 0.0.0.0 iodthosenad.fun
 0.0.0.0 ionaloutlerscrisi.fun
 0.0.0.0 jisitechiatrixconc.fun
@@ -44234,7 +44225,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 codemylife.info
 0.0.0.0 coderformylife.info
 0.0.0.0 feed-6009.coderformylife.info
-0.0.0.0 committeemenencyclopedicrepertory.info
 0.0.0.0 comnewsupdate.info
 0.0.0.0 com-878979.info
 0.0.0.0 cookieanalyze.info
@@ -47096,7 +47086,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 popcornews.me
 0.0.0.0 populr.me
 0.0.0.0 notify.premium-news.me
-0.0.0.0 pronews.me
 0.0.0.0 analytics.proxer.me
 0.0.0.0 rebill.me
 0.0.0.0 rednews.me
@@ -47504,7 +47493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aavacations.7eer.net
 0.0.0.0 absinthevegas.7eer.net
 0.0.0.0 adasa.7eer.net
-0.0.0.0 adidas.7eer.net
 0.0.0.0 adidas-pp.7eer.net
 0.0.0.0 adorama.7eer.net
 0.0.0.0 ae.7eer.net
@@ -48991,7 +48979,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector.clareity.net
 0.0.0.0 cleanfiles.net
 0.0.0.0 www.cleanfiles.net
-0.0.0.0 cache-02.cleanprint.net
 0.0.0.0 te.cleveland.net
 0.0.0.0 an.clhcdn.net
 0.0.0.0 clicck.net
@@ -50354,7 +50341,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doufoacu.net
 0.0.0.0 douhooke.net
 0.0.0.0 doushoom.net
-0.0.0.0 static.doyoo.net
 0.0.0.0 dreamintim.net
 0.0.0.0 li.mw.drhinternet.net
 0.0.0.0 logapi.dsipsw.net
@@ -51122,6 +51108,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 faigroas.net
 0.0.0.0 fam-8.net
 0.0.0.0 cdn.fancybar.net
+0.0.0.0 fangniaowang.net
 0.0.0.0 fastapi.net
 0.0.0.0 cm.fastapi.net
 0.0.0.0 g.fastapi.net
@@ -52177,7 +52164,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 track.mobshark.net
 0.0.0.0 mocmubse.net
 0.0.0.0 stat.moevideo.net
-0.0.0.0 mologiq.net
 0.0.0.0 a.mologiq.net
 0.0.0.0 mondiad.net
 0.0.0.0 cdn.mondiad.net
@@ -60096,13 +60082,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 pv.ltn.com.tw
 0.0.0.0 ad.pchome.com.tw
 0.0.0.0 ox1.shopcool.com.tw
-0.0.0.0 www.skycity.com.tw
 0.0.0.0 ta.com.tw
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 ads.ttv.com.tw
 0.0.0.0 ad.yam.com.tw
 0.0.0.0 ad2.yam.com.tw
-0.0.0.0 bilanx.dcard.tw
 0.0.0.0 piwik.edh.tw
 0.0.0.0 itad.linetv.tw
 0.0.0.0 microad.tw
@@ -61347,6 +61331,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 r.tinmoi24.vn
 0.0.0.0 interactive.tinnhanhchungkhoan.vn
 0.0.0.0 log.tinnhanhchungkhoan.vn
+0.0.0.0 analytics.tintuc.vn
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 log.tinxe.vn
 0.0.0.0 tracking.tinxe.vn
