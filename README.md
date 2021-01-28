@@ -52,4 +52,6 @@ Still wanna block more? Use the [addon(s)](https://github.com/badmojr/1Hosts/tre
 
 \- _**Visit our [XDA](https://forum.xda-developers.com/t/one-to-block-them-all-1hosts.3713360/) thread for more download mirrors.**_ \-
 
-![](http://profile-counter.glitch.me/HKJAanbajQSXcn/count.svg)
+<p align="center">
+  <a href=""><img src="http://profile-counter.glitch.me/HKJAanbajQSXcn/count.svg"></a>
+</p>
