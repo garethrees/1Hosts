@@ -48,7 +48,7 @@
 
 **Quickstart Guide**<br>
 ----------------
-Start with a ***Lite*** pack.<br>
+Start with a ***Lite*** blocklist.<br>
 - If it blocks too much, downgrade to ***mini***.<br>
 - If it doesn't block enough, upgrade to ***Pro***.<br>
 
