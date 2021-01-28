@@ -1,7 +1,7 @@
 # ***Protect your 'data' & eyeballs from being auctioned to the highest bidder.***<br>
 *Grab an updated copy of the file(s) today!*<br>
 
-#### **<ins>[AdAway](https://adaway.org/)</ins> | <ins>[Blokada](https://blokada.org/)</ins> | <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins> | | <ins>[Pi-hole](https://pi-hole.net/)</ins>**:-<br>
+#### **<ins>[AdAway](https://adaway.org/)</ins> . <ins>[Blokada](https://blokada.org/)</ins> . <ins>[personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/)</ins> . <ins>[Pi-hole](https://pi-hole.net/)</ins>**:-<br>
 | Name  | GitHub | jsDelivr   |
 |---|---|---|
 | Lite  | [badmojr.github.io/1Hosts/Lite/hosts.txt](https://badmojr.github.io/1Hosts/Lite/hosts.txt)  | [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/hosts.txt)  |
@@ -17,7 +17,7 @@
 | mini  | [badmojr.github.io/1Hosts/mini/domains.txt](https://badmojr.github.io/1Hosts/mini/domains.txt)  | [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/domains.txt)  |
 <br>
 
-#### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> | <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)</ins>**:-<br>
+#### **<ins>[uBlock Origin](https://github.com/gorhill/uBlock#installation)</ins> . <ins>[AdGuardHome](https://adguard.com/en/adguard-home/overview.html)</ins>**:-<br>
 | Name  | GitHub | jsDelivr   |
 |---|---|---|
 | Lite  | [badmojr.github.io/1Hosts/Lite/adblock.txt](https://badmojr.github.io/1Hosts/Lite/adblock.txt)  | [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/adblock.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/adblock.txt)  |
@@ -25,7 +25,7 @@
 | mini  | [badmojr.github.io/1Hosts/mini/adblock.txt](https://badmojr.github.io/1Hosts/mini/adblock.txt)  | [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/adblock.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/mini/adblock.txt)  |
 <br>
 
-#### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> | <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**:-<br>
+#### **<ins>[DNSCloak](https://apps.apple.com/us/app/dnscloak-secure-dns-client/id1452162351)</ins> . <ins>[dnscrypt-proxy](https://www.dnscrypt.org/)</ins>**:-<br>
 | Name  | GitHub | jsDelivr   |
 |---|---|---|
 | Lite  | [badmojr.github.io/1Hosts/Lite/wildcards.txt](https://badmojr.github.io/1Hosts/Lite/wildcards.txt)  | [cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/wildcards.txt](https://cdn.jsdelivr.net/gh/badmojr/1Hosts@latest/Lite/wildcards.txt)  |
